@@ -32,7 +32,7 @@ useHLJS = false
 wordCount = false
 
   [params.author]
-    name = "Camille"
+    name = "Julien"
 
 
 [privacy]
