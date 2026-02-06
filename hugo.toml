@@ -30,6 +30,9 @@ socialShare = false
 subtitle = ""
 useHLJS = false
 wordCount = false
+canonifyURLs = true
+relativeURLs = false
+
 
   [params.author]
     name = "Julien"
@@ -54,12 +57,12 @@ weight = 1
 
 [[menu.main]]
 name = "Vos droits"
-weight = 3
+weight = 2
 url = "page/vos_droits"
 
 [[menu.main]]
 name = "Contact"
-weight = 9
+weight = 3
 url = "page/contact"
 
 
