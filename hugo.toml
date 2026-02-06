@@ -1,4 +1,4 @@
-baseURL = "https://hugolidaires.frama.io/site-template/"
+baseURL = "https://hugolidaires.frama.io/"
 DefaultContentLanguage = "fr"
 enableEmoji = true
 enableRobotsTXT = true
