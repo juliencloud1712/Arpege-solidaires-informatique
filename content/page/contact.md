@@ -14,3 +14,7 @@ En personne
 Pour adhérer ?
 ====================
 [Bulletin d'adhésion à Solidaires Informatique](https://adhesion.solidairesinformatique.org)
+
+Inscription à la Newsletter
+====================
+Inscrit toi à la newsletter pour être tenu informé de notre action
