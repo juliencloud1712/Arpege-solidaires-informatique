@@ -100,8 +100,9 @@ body {
   }
   
   .main-content {
-    padding-top: 80px;
-  }
+  padding-top: 130px; /* Augmenté pour pousser le contenu rose vers le bas */
+}
+
   @media only screen and (min-width: 768px) {
     .main-content {
       padding-top: 130px;
