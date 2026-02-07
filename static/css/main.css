@@ -183,6 +183,8 @@ body {
   .navbar-brand {
     width: 100%; /* ✅ Valide : appliqué à l'élément */
     padding: 2%;
+    margin-top: -15px;
+    height: 60px;
   }
 }
 
