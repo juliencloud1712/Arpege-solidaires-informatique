@@ -30,6 +30,9 @@ socialShare = false
 subtitle = ""
 useHLJS = false
 wordCount = false
+canonifyURLs = false
+relativeURLs = true
+
 
 
 
