@@ -979,7 +979,7 @@ body {
 
 /* On pousse tout le contenu vers le bas sur mobile */
 .main-content {
-    padding-top: 250px !important; 
+    padding-top: 100px !important; 
 }
 
 /* On réajuste pour les grands écrans (ordinateurs) */
