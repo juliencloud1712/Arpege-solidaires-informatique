@@ -23,7 +23,7 @@ mainSections = ["posts"]
 menu_item_separator = " · "
 readingTime = false
 rss = true
-selfHosted = true
+selfHosted = false
 showRelatedPosts = false
 SidebarRecentLimit = 5
 socialShare = false
@@ -52,7 +52,7 @@ relativeURLs = false
 
 [[menu.main]]
 name = "Actualités"
-url = "./"
+url = "/"
 weight = 1
 
 [[menu.main]]
