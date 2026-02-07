@@ -179,6 +179,13 @@ body {
     color: #FFFF54;
   }
 
+@media (max-width: 768px) {
+  .navbar-brand {
+    width: 100%; /* ✅ Valide : appliqué à l'élément */
+    padding: 2%;
+  }
+}
+
   /* @media (prefers-color-scheme: dark) {
     .navbar-custom {
       background: #505050;
