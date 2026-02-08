@@ -1,4 +1,4 @@
-baseURL = "https://juliencloud1712.github.io/Arpege-solidaires-informatique/"
+baseURL = "https://juliencloud1712.github.io/"
 DefaultContentLanguage = "fr"
 enableEmoji = true
 enableRobotsTXT = true
