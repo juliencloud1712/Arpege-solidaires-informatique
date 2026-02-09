@@ -14,7 +14,7 @@ En vertu de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance
 
 - **Propriétaire** : La section syndicale Arpège Solidaires Informatique
 - **Responsable publication** : Le responsable de la section syndicale Arpège Solidaire Informatique
-- **Hébergeur** : deuxfleurs
+- **Hébergeur** : Github Pages
 - **Crédits** :
     - _Le site_ est généré avec [Hugo](http://gohugo.io/)
     - la police (qui se tient sage) de caractère est celle de l'union syndicale Solidaires : [`Scotchlidaires`][scotchlidaires]
